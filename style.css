@@ -1,0 +1,58 @@
+.h1 {
+	text-align: center;
+	color: tomato;
+	text-shadow: 2px 2px white;
+	}
+
+
+.box {
+	width: 1200px;
+	height: 130px;
+	padding: 20px;
+	border: 5px solid black;
+	margin: 15px;
+	background-color: orangered ;
+	display: flex;
+	justify-content: center;
+	align-items: ;
+	}
+
+.h2 {
+	border: 4px solid orange;
+	outline-style: solid;
+	outline-width: 4px;
+	outline-color: tomato;
+	color: white;
+	font-size: 15px;
+	text-align: center;
+	}
+
+.icon {
+	font-size: 24px;
+	color: white;
+	margin: 20px;
+	}
+
+
+.text {
+	text-align: justify;
+	font-size: 15px;
+	}
+
+
+a:link {
+	color: orangered;
+	}
+
+a:visited {
+	color: orangered;
+	}
+
+a:hover {
+	color: yellow;
+	}
+
+a:active {
+	color: orangered;
+
+
